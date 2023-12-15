@@ -1,0 +1,11 @@
+.hotelimage {
+  width: 14rem;
+  height: 10rem;
+  padding-left: 2rem;
+}
+.hotelfont {
+  padding-left: 2rem;
+}
+.hotelfont h2 {
+  padding-bottom: 0.5rem;
+}

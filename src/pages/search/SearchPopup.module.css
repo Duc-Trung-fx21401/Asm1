@@ -1,0 +1,40 @@
+.box {
+  width: 20%;
+  margin-left: 5rem;
+  background-color: rgba(241, 199, 8, 0.884);
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  height: 35%;
+  border-radius: 5%;
+  margin-top: 1rem;
+}
+.h2 {
+  padding: 0.5rem 0;
+}
+.opt {
+  padding-top: 0.5rem;
+  font-weight: bold;
+}
+.option {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 2rem;
+}
+
+.input {
+  width: 95%;
+  height: 1.5rem;
+}
+
+.input1 {
+  width: 3rem;
+}
+.bnt {
+  text-align: center;
+  background-color: rgba(15, 85, 238, 0.767);
+  color: aliceblue;
+  width: 93%;
+  height: 2rem;
+  margin: 1rem 0.5rem;
+  border-style: none;
+}

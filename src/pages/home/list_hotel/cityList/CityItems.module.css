@@ -1,0 +1,18 @@
+.image {
+  width: 25rem;
+  margin-top: 5rem;
+  padding-left: 2rem;
+}
+.absolute {
+  /* position: absolute; */
+  transform: translateY(-150%);
+  color: aliceblue;
+  padding-left: 2rem;
+  font-size: 1.5rem;
+}
+.p {
+  padding-left: 2rem;
+}
+.name {
+  padding-left: 2rem;
+}

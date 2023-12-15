@@ -1,0 +1,22 @@
+.navbar {
+  background-color: rgb(56, 56, 241);
+  padding: 2rem;
+}
+.navbar_item__1 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+.navbar_btn {
+  margin-left: 2rem;
+  border-style: none;
+}
+.navbar p {
+  color: aliceblue;
+  padding-right: 2rem;
+}
+.nav {
+  color: aliceblue;
+  display: flex;
+  padding: 0.5rem;
+}

@@ -1,0 +1,19 @@
+.heaeder {
+  color: aliceblue;
+  background-color: rgb(56, 56, 241);
+}
+.heaeder_btn {
+  background-color: rgba(85, 122, 223, 0.829);
+  color: aliceblue;
+  margin-bottom: 2rem;
+  padding: 0.5rem;
+  position: relative;
+  margin-left: 2rem;
+  border-style: none;
+}
+.heaeder_border {
+  padding: 2rem;
+}
+.h1 {
+  padding-left: 2rem;
+}

@@ -1,0 +1,13 @@
+.item {
+  list-style-type: none;
+  /* text-align: center; */
+  padding-top: 3rem;
+  padding-left: 5rem;
+}
+.link {
+  text-decoration: none;
+  /* padding: 1rem; */
+}
+.li {
+  padding-bottom: 1rem;
+}

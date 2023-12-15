@@ -1,0 +1,78 @@
+.containers {
+  border: 1px solid black;
+  display: flex;
+  /* margin-left: 2rem; */
+  width: 100%;
+  margin: 1rem 0 1rem 2rem;
+}
+.items {
+  width: 38rem;
+  padding-left: 1rem;
+  padding-top: 1rem;
+}
+.img {
+  width: 15rem;
+  height: 14rem;
+  margin: 0.5rem;
+}
+.item {
+  width: 25rem;
+}
+.display {
+  display: flex;
+  justify-content: space-between;
+}
+.display_formation {
+  display: flex;
+  justify-content: space-between;
+}
+
+.display_price {
+  margin: 5rem 0.5rem 0 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.bnt {
+  background-color: rgba(14, 99, 226, 0.897);
+  color: aliceblue;
+  padding: 0.5rem 1rem;
+  margin-top: 0.5rem;
+  border-radius: 5%;
+  border-style: none;
+  font-size: 1rem;
+}
+.bolean {
+  font-size: 0.8rem;
+}
+.rate {
+  background-color: rgb(4, 4, 71);
+  color: aliceblue;
+  margin-bottom: 0.5rem;
+}
+.tag {
+  color: aliceblue;
+  background-color: green;
+  margin-right: 17rem;
+  border-radius: 4%;
+}
+.free_cancel {
+  color: green;
+  padding-top: 0.5rem;
+}
+.description {
+  font-weight: bold;
+  padding: 0.5rem 0;
+  padding-bottom: 0.5rem;
+}
+.price {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.includes {
+  font-size: 0.8rem;
+  color: rgba(149, 153, 156, 0.918);
+}
+.name {
+  color: rgba(14, 99, 226, 0.897);
+}

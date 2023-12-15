@@ -1,0 +1,33 @@
+.form {
+  background-color: rgb(56, 56, 241);
+  padding: 7rem;
+  margin-top: 3rem;
+}
+.h1 {
+  color: aliceblue;
+  text-align: center;
+  font-size: 3rem;
+}
+.p {
+  color: aliceblue;
+  text-align: center;
+  padding: 2rem 0;
+}
+.input {
+  text-align: center;
+  box-shadow: none;
+}
+.bnt {
+  padding: 0.5rem;
+  background-color: rgba(23, 23, 46, 0.596);
+  color: aliceblue;
+  margin-left: 2rem;
+  border-radius: 10%;
+  border-style: none;
+}
+.input1 {
+  width: 16rem;
+  height: 2rem;
+  border-radius: 2%;
+  border-style: none;
+}

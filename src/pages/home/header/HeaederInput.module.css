@@ -1,0 +1,46 @@
+.header {
+  transform: translateY(50%);
+}
+.input {
+  display: flex;
+  background-color: aliceblue;
+  border: 3px solid yellow;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  justify-content: space-between;
+}
+.input1 {
+  display: flex;
+  padding: 0.5rem;
+  position: relative;
+}
+.input2 {
+  border-style: hidden;
+  width: 16rem;
+}
+.input2:focus {
+  outline: none;
+}
+.input1 i {
+  padding-right: 5px;
+  color: rgba(159, 173, 187, 0.829);
+}
+
+.input_bnt {
+  margin: 1rem;
+  background-color: rgb(5, 217, 255);
+  border-style: none;
+}
+.input3 {
+  position: absolute;
+  z-index: 1024;
+  margin-top: 50px;
+}
+.carendar {
+  width: 15rem;
+  background-color: #fff;
+}
+.closerCarendar {
+  width: 100%;
+  height: 100%;
+}

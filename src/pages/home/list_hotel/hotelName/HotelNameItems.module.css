@@ -1,0 +1,29 @@
+.hotelimage {
+  width: 16.5rem;
+  height: 16rem;
+  display: block;
+  padding: 2rem;
+}
+.hotelRate {
+  display: flex;
+  padding-top: 0.5rem;
+}
+
+.hotelname a {
+  padding-left: 2rem;
+}
+.border {
+  background-color: blue;
+  color: aliceblue;
+  padding: 0.5rem;
+}
+.hotelpading {
+  padding-left: 2rem;
+}
+.border1 {
+  padding: 0.5rem;
+  padding-right: 0.5rem;
+}
+.hotelpading1 {
+  padding-top: 1rem;
+}

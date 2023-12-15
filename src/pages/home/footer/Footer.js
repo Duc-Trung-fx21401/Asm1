@@ -58,6 +58,7 @@ const Footer = () => {
       ],
     },
   ];
+  console.log("abc");
   return (
     <div>
       <div className={footer.display}>
